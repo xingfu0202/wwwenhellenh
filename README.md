@@ -50,7 +50,7 @@
 <p> <a href="https://gitlab.com/davidjohn2013/mrqueen2/-/raw/main/anhloidan.jpeg " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/大纪元郑重声明-success?logoWidth=1" title="大纪元郑重声明" alt="大纪元郑重声明"></a></p>  
 <p><a href="https://gitlab.com/davidjohn2013/mrqueen2/-/raw/main/19-8.jpg" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/全球三退结果更新-success?logoWidth=1" title="全球三退结果更新" alt="全球三退结果更新" </a></p>   
 <p> 朋友，人在做，天在看！你曾经发誓加入它的组织，为它献出生命。所以你现在必需说，‘我要退出所有党，团，队组织。然后请你在下方填写您的化名和退出什么组织，请您速帮助您的亲友也尽快退出来 ，祝您和您的家人渡过难关！如果已经有法轮功学员帮你退过了，您无需再填写表格，您只需帮助你的亲人填写三退表格即可！</p>
-<p><a href="https://github.com/hwpejs398/ntdtv/blob/master/gb/2022/08/25/a103510619.md#1" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/请你按这里选择化名-yellow?logoWidth=1" title="请你按这里选择化名" alt="请你按这里选择化名"></a></p>  
+<p><a href="http://bighopes.info/ " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/请你按这里选择化名-yellow?logoWidth=1" title="请你按这里选择化名" alt="请你按这里选择化名"></a></p>  
 <p><a href=https://gitlab.com/davidjohn2013/mrqueen2/-/raw/main/9chuchanngon.mp4" " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/请点击按钮领取平安符-9cf?logoWidth=1" title="请点击按钮领取平安符 " alt="请点击按钮领取平安符 "></a></p>  
 
 <img src="/anh/haha.jpg"><br>
