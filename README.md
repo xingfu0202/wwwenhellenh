@@ -7,8 +7,8 @@
 <a name="6" id="6" target="_blank"></a> <span id="6"></span>
 <a name="7" id="7" target="_blank"></a> <span id="7"></span>
 <a id="user-content-1" href="#1">
-<div align="center">
-  <h1><p><strong> The Light Of Hope </strong></p></h1>
+<div align="center" colour="yellow" >
+  <h1><p><strong> 希望之光 </strong></p></h1>
 <p> 我们致力于为您提供重要的信息和事实，以便您做出正确的选择。 这是给您送平安来了，请在最后一页找到这个链接。祝你平安！</p>
 
 <img src="/anh/haha.jpg"><br>
