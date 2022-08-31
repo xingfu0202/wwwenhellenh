@@ -10,7 +10,7 @@
 <div align="center" colour="yellow" >
   <h1><p><strong> 希望之光 </strong></p></h1>
 <p> 我们致力于为您提供重要的信息和事实，以便您做出正确的选择。 这是给您送平安来了，请在最后一页找到这个链接。祝你平安！</p>
-
+  <i>  请点击下面的文本框，查看里面那些令你印象深刻的视频。</i>
 <img src="/anh/haha.jpg"><br>
   
 <p><a href="https://gitlab.com/davidjohn2013/mrqueen2/-/raw/main/vd1.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 世界上有多少未解之謎？-009fcc?logoWidth=1" title="视频: 世界上有多少未解之謎？" alt="视频: 世界上有多少未解之謎？"></a></p>
