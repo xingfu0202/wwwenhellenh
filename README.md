@@ -56,7 +56,7 @@
   
 <p><a href="https://gitlab.com/davidjohn2013/mrqueen2/-/raw/main/dp1.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:大法洪传 -009fcc?logoWidth=1" title="视频: 大法洪传" alt="视频: 大法洪传"></a></p>
 <p><a href=https://gitlab.com/davidjohn2013/mrqueen2/-/raw/main/9chuchanngon.mp4" " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/奇妙的九字真言-009fcc?logoWidth=1" title="奇妙的九字真言 " alt="奇妙的九字真言 "></a></p>  
-<p><a href=" " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:大法洪传 -009fcc?logoWidth=1" title="视频: 大法洪传" alt="视频: 大法洪传"></a></p>  
+<p><a href="https://gitlab.com/aqqua33/verra/-/raw/main/dp4.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:大法洪传 -009fcc?logoWidth=1" title="视频: 大法洪传" alt="视频: 大法洪传"></a></p>  
 <p><a href="https://gitlab.com/davidjohn2013/mrqueen2/-/raw/main/gt1.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:苏醒 (女声独唱) -009fcc?logoWidth=1" title="视频:苏醒 (女声独唱) " alt="视频:苏醒 (女声独唱) "></a></p>  
   
 <p>我们非常珍惜这个机缘！ 你已经平安了，所以我们希望你的家人也得到平安。 请帮助他们！ 不要让他们错过这个机缘！ </p>
