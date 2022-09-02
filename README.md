@@ -50,12 +50,12 @@
 <img src="/anh/haha.jpg"><br>
   
 <p><a href="http://bighopes.info/ " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/我们郑重的送你一份保平安的礼物-yellow?logoWidth=1" title="我们郑重的送你一份保平安的礼物" alt="我们郑重的送你一份保平安的礼物"></a></p>  
-<p><a href=https://gitlab.com/davidjohn2013/mrqueen2/-/raw/main/9chuchanngon.mp4" " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/请点击按钮领取平安符-9cf?logoWidth=1" title="请点击按钮领取平安符 " alt="请点击按钮领取平安符 "></a></p>  
+
 
 <img src="/anh/haha.jpg"><br>
   
 <p><a href="https://gitlab.com/davidjohn2013/mrqueen2/-/raw/main/dp1.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:大法洪传 -009fcc?logoWidth=1" title="视频: 大法洪传" alt="视频: 大法洪传"></a></p>
-<p><a href=https://gitlab.com/davidjohn2013/mrqueen2/-/raw/main/9chuchanngon.mp4" " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/奇妙的九字真言-9cf?logoWidth=1" title="奇妙的九字真言 " alt="奇妙的九字真言 "></a></p>  
+<p><a href=https://gitlab.com/davidjohn2013/mrqueen2/-/raw/main/9chuchanngon.mp4" " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/奇妙的九字真言-009fcc?logoWidth=1" title="奇妙的九字真言 " alt="奇妙的九字真言 "></a></p>  
 <p><a href=" " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:大法洪传 -009fcc?logoWidth=1" title="视频: 大法洪传" alt="视频: 大法洪传"></a></p>  
 <p><a href="https://gitlab.com/davidjohn2013/mrqueen2/-/raw/main/gt1.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:苏醒 (女声独唱) -009fcc?logoWidth=1" title="视频:苏醒 (女声独唱) " alt="视频:苏醒 (女声独唱) "></a></p>  
   
