@@ -49,7 +49,7 @@
 .
 <img src="/anh/haha.jpg"><br>
   
-<p><a href="http://bighopes.info/ " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/我们郑重的送你一份保平安的礼物-yellow?logoWidth=1" title="我们郑重的送你一份保平安的礼物" alt="我们郑重的送你一份保平安的礼物"></a></p>  
+<p><a href="http://bighopes.info/ " target=_blank><img width="330" height="70" src="https://img.shields.io/badge/我们郑重的送你一份保平安的礼物-yellow?logoWidth=1" title="我们郑重的送你一份保平安的礼物" alt="我们郑重的送你一份保平安的礼物"></a></p>  
 
 
 <img src="/anh/haha.jpg"><br>
